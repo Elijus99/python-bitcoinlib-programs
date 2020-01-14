@@ -17,5 +17,12 @@
 
 ## Examples
 
+### Transaction fee calculation
+- `python TransactionFee.py 4410c8d14ff9f87ceeed1d65cb58e7c7b2422b2d7529afc675208ce2ce09ed7d`
 
-`python TransactionFee.py 4410c8d14ff9f87ceeed1d65cb58e7c7b2422b2d7529afc675208ce2ce09ed7d`
+![TransactionFee](/images/TransactionFee.png)
+
+### Hash checking
+- `python CheckHash.py 100001`
+
+![CheckHash](/images/CheckHash.png)
